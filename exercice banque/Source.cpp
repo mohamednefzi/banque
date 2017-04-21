@@ -26,6 +26,5 @@ int main() {
 	banque.ouvertureCompte();
 	banque.ouvertureCompte();
 	banque.afficher();
-	return 0;
-	return 0;
+
 }
